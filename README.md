@@ -12,3 +12,6 @@ Geografic information: https://datos.cdmx.gob.mx/explore/dataset/alcaldias/map/
 ## Some generated maps
 ![mapa1](mapa1.png)
 ![mapa2](mapa2.png)
+
+
+Colab link: https://colab.research.google.com/drive/1bISLvz1AyUrsKdtcjBsniA73yjh66m7P
