@@ -9,5 +9,6 @@ Crimes (could not upload full file because of size): https://datos.cdmx.gob.mx/e
 Geografic information: https://datos.cdmx.gob.mx/explore/dataset/alcaldias/map/
 
 
-## Generated maps
+## Some generated maps
 ![mapa1](mapa1.png)
+![mapa2](mapa2.png)
